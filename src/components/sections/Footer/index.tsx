@@ -15,7 +15,7 @@ const Fotter = () => {
           GoalGalaxy
           </a>
           <p className="mt-3 text-xs sm:text-sm text-gray-600 dark:text-gray-400">
-            © 2023 GoalGalaxy.
+            © 2025 GoalGalaxy.
           </p>
         </div>
 
@@ -224,7 +224,7 @@ const Fotter = () => {
                 GoalGalaxy
               </a>
               <p className="mt-1 text-xs sm:text-sm text-gray-600 dark:text-gray-400">
-                © 2023 GoalGalaxy.
+                © 2025 GoalGalaxy.
               </p>
             </div>
 
