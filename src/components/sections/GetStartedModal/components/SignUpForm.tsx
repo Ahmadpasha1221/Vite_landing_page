@@ -46,7 +46,7 @@ const SignUpForm = ({ toggleSignUp }: Props) => {
           reset();
           setSigning(false);
           // msg
-          enqueueSnackbar(`Welcome to VertexERP, ${data.email}!. Please login.`, {
+          enqueueSnackbar(`Welcome to GoalGalaxy, ${data.email}!. Please login.`, {
             variant: "success",
           });
           // switch to login form

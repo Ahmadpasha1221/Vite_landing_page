@@ -77,7 +77,7 @@ const SignInForm = ({ toggleSignUp, loginSuccess, setLoginSuccess }: Props) => {
           setTimeout(() => {
             _resetting()
             // msg
-            enqueueSnackbar(`Welcome to VertexERP, ${data.email}`, {
+            enqueueSnackbar(`Welcome to GoalGalaxy, ${data.email}`, {
               variant: "success",
             });
           }, 200);

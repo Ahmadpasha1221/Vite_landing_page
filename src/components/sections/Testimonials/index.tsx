@@ -69,7 +69,7 @@ const Testimonials = () => {
               2,000+
             </p>
             <p className="mt-1 text-gray-100 dark:text-gray-400">
-              partner with VertexERP
+              partner with GoalGalaxy
             </p>
           </div>
 

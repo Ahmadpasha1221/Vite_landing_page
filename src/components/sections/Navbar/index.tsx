@@ -14,7 +14,7 @@ const Navbar = () => {
         className="cursor-pointer font-bold text-xl md:text-3xl font-mono pl-4 md:pl-0"
         href=""
       >
-        VertexERP
+        GoalGalaxy
       </a>
       <a
         className="get-started-btn with-base-gradient text-xs py-2 px-3 md:text-sm md:py-3 md:px-4"

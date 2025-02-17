@@ -22,16 +22,16 @@ const Hero = () => {
         {/* main headline */}
         <div className="mt-5 max-w-2xl text-center mx-auto">
           <h1 className="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">
-            Rethink Your{" "}
+            Grow Your{" "}
             <span className="bg-clip-text with-base-gradient text-transparent">
-              Business Management
+              Career Here
             </span>
           </h1>
         </div>
         {/* sub headline */}
         <div className="mt-5 max-w-3xl text-center mx-auto">
           <p className="text-sm md:text-lg text-gray-600 dark:text-gray-400">
-            Vertex ERP is a system that empowers your business through efficient
+          GoalGalaxy is a system that empowers your business through efficient
             marketing, seamless subscriber tracking, and robust management
             capabilities.
           </p>
